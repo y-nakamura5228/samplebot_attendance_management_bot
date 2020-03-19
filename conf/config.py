@@ -39,7 +39,7 @@ SECRET_KEY_NAME = "private_20200319111511.key"
 LOCAL_ADDRESS = "https://ec2-18-235-97-230.compute-1.amazonaws.com"
 
 # DB config
-DB_HOST = "ec2-xxx-xxx-xxx-xxx.compute-1.amazonaws.com"
+DB_HOST = "ec2-18-235-97-230.compute-1.amazonaws.com"
 DB_NAME = "dcp87b7ppdm0cs"
 DB_USER = "hayrkfojrspyoa"
 DB_PORT = "5432"
